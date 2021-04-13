@@ -1,3 +1,3 @@
 # demo
 Demo til undervisning
-![](IMG_3866.JPG)
+![](IMG_3866.jpg)
